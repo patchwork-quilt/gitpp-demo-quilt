@@ -17,3 +17,5 @@ Family: [git.pp-ng](https://github.com/patchwork-quilt/git.pp-ng)
 [gitpp-app](https://github.com/patchwork-quilt/gitpp-app)
 
 Webhook loop test: 2026-10-21 — pushed to prove the gitpp-app receiver verifies and records deliveries.
+
+Derivation-loop live proof: the gitpp-app should answer this push with a git.pp state Check.
