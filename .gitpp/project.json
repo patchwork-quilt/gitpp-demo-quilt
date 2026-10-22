@@ -2,5 +2,5 @@
   "project": "poc-quilt-1",
   "format": "git.pp records, one JSON file per record",
   "host": "github",
-  "note": "Dogfood project for gitpp-app (Mapping A transplant): the poc-quilt-1 record set, hosted on GitHub instead of Artifacts. Derived state today: config.timeout = 45 (winner override-1)."
+  "note": "Dogfood project for gitpp-app (Mapping A transplant): the poc-quilt-1 record set, hosted on GitHub instead of Artifacts. The derived state is whatever the records fold to \u2014 read it from the git.pp state Check on the latest commit."
 }
