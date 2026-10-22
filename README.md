@@ -15,3 +15,5 @@ Family: [git.pp-ng](https://github.com/patchwork-quilt/git.pp-ng)
 (the spec + engine) ·
 [gitpp-action](https://github.com/patchwork-quilt/gitpp-action) ·
 [gitpp-app](https://github.com/patchwork-quilt/gitpp-app)
+
+Webhook loop test: 2026-10-21 — pushed to prove the gitpp-app receiver verifies and records deliveries.
