@@ -1,0 +1,6 @@
+{
+  "project": "poc-quilt-1",
+  "format": "git.pp records, one JSON file per record",
+  "host": "github",
+  "note": "Dogfood project for gitpp-app (Mapping A transplant): the poc-quilt-1 record set, hosted on GitHub instead of Artifacts. Derived state today: config.timeout = 45 (winner override-1)."
+}
